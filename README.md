@@ -19,6 +19,26 @@
 
 - LOGO, 웹 디자인, UI설계, 공통 CSS 배포
 </p><br>
+
+<p>* 개발환경 : </p>
+<p>
+  
+- FRONT <br>
+EJS, HTML5 , CSS3, JavaScript, jQuery <br>
+<br>
+  
+- BACK-END <br>
+JAVA, JSP, Spring, My Batis <br>
+ <br>
+  
+- DB / SERVER <br>
+Oracle, Node.js, GitHub, Tomcat9 <br>
+ <br>
+  
+- TOOL <br>
+Eclipse, Spring, Visual Studio Code, Notion, Oven <br>
+</p>
+ <br>
 <details>
   <summary>프로젝트 샅샅이 살펴보기 (펼침)</summary>
   <p align="center"><img src="https://0905cjw.github.io/seoulmate/project01.png" width="80%"/></p>
